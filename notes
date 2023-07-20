@@ -1,0 +1,37 @@
+--------------------------------------------------------------------------------
+Vectors
+
+Operations to support
+
+* vector to string
+* dot
+* length (norm)
+* vector addition
+* scalar multiplication
+* normalize
+* cross
+* angle between two vectors
+* subtraction
+* assignment
+* projection of one vector onto another.
+triple product i.e. dot(u, cross(v, w))   Is this really that common?
+
+Class with operator overloading?
+
+--------------------------------------------------------------------------------
+Matrices
+
+* getstring
+* assign
+* add
+* subtract
+* scalar multiplication
+* vector multiplication
+* matrix multiplication
+* transpose
+det
+inverse
+
+--------------------------------------------------------------------------------
+Quaternions
+

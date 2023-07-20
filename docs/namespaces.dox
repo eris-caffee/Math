@@ -1,0 +1,10 @@
+/** \namespace arda
+ *
+ * General purpose namespace containing all aspects of the4 Arda engine.
+ */
+
+/** \namespace arda::Math
+ *
+ * All math related code lives here.
+ */
+

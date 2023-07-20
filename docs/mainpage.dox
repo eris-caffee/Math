@@ -1,0 +1,13 @@
+/**
+   \mainpage arda::Math
+
+   \section Overview
+
+   A 3D math library for games.
+
+   This library is not (yet?) trying to be a highly optimized system.  Rather it is inteded to be simple to understandf an use.  Design goals include
+
+   - Mimicing the standard mathematical notation as closely as possible.
+   - Using templates to keep generated code size to a minimum.
+
+*/
